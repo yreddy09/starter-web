@@ -11,3 +11,4 @@ Sample website with plenty of files for demos.
 MEntion deployment steps here
 
 ## How to Contribute
+You can write the details of contribution here
