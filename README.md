@@ -13,6 +13,7 @@ ow to deploy the apps etc.
 
 ## How to Contribute
 You can write the details of contribution here
+Add the details here
 
 Updated by Yugandhar Reddy
 
