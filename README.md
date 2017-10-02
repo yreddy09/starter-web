@@ -15,3 +15,6 @@ ow to deploy the apps etc.
 You can write the details of contribution here
 
 Updated by Yugandhar Reddy
+
+### Copyright
+Copy right for Git
